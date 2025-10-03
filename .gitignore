@@ -1,0 +1,26 @@
+.idea/
+node_modules/
+.vscode/
+*.map
+.DS_Store
+.sourcemaps
+dist/
+
+# Apple Developer
+*.mobileprovision
+*.p12
+*.certSigningRequest
+exportOptions.plist
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# API keys
+**/google-services.json
+keystore.properties
+**/*.keystore
+
+
+
